@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* wallpaper was a free download from art-wallpaper.org via hipwallpaper.com */
+  background-image: url("./assets/spiderweb.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.P1{
+ 
+  padding: 20px;
+  text-align: center;
+  width: 75%;
+  margin-left:25px;
+  background-color: rgb(9,13,24,.8);
+  box-shadow: 8px 10px 20px #0f1329;
+}
+
+.P2{
+  font-weight: bold;
+  width: 40%;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 20px;
+  margin-left: 50%;
+  margin-top: 2%;
+  text-align: right;
+  background-color: rgba(108, 221, 255, 0.5);
+  display:block;
+}
+
+.P3{
+  font-weight: bold;
+  padding: 30px;
+  margin-left: 15%;
+  margin-right:35%;
+  margin-top: 2%;
+  padding-left: 100px;
+  background-color: rgba(100,137,155, .8);
+  box-shadow: 8px 10px 20px #547383;
+}
+
+.P4{
+  font-weight: bold;
+  padding: 40px;
+  margin-top: 2%;
+  width: 40%;
+  text-align: left;
+  border: solid;
+  border-width: 5px;
+  border-color: rgb(141,171,190);
+  color: rgba(108, 221, 255,.8);
+  text-align: center;
+  margin-left: 55px;
+  text-shadow: 2px 2px rgb(15, 13, 36);
+}
+
+.nav {
+  text-align: center;
+  background-color: rgb(9,13,24,.8);
+  box-shadow: 8px 10px 20px #0f1329;
+  margin-bottom: 15px;
+  width: 100%;
+  padding: 20px;
+}
+
+.Footer {
+  background-color: rgb(9,13,24,.7);
+  box-shadow: 8px 10px 20px #0f1329;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding: 2px;
+  padding-bottom: 20px;
+  margin-top: 5%;
+}
+
+.profilePic{
+  float: right;
+  margin-right: 5%;
+  width: 20%;
+  margin-left: 30px;
+  box-shadow: 8px 10px 20px #232842;
+}
+
+.About{
+  background-color:  rgb(9,13,24,.7);
+  box-shadow: 15px 15px 20px rgb(9,13,24,.7);
+  padding-bottom: 50px;
+}
+
+.about {
+  text-align: justify;
+  font-size: x-large;
+  font-size: larger;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.h1{
+  text-shadow: 2px 2px black;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+
+/* portfolio page animation found at https://uicookies.com/bootstrap-animation/*/
+.cardImg {
+	text-align: center;	
+	position: relative;
+	cursor: pointer;	
+	perspective: 500px; 
+}
+.cardImg img {
+	height: 100%;
+}
+.cardImg .cardText {
+	width: 100%;
+  height: 70%;
+  padding: 5% 8%;
+	position: absolute;
+	content: "";
+	top: 65%;
+	left: 50%;
+  text-align: justify;
+	transform: translate(-50%, -50%) rotateY(90deg);
+	transform-origin: 50%;
+	background: rgba(15, 15, 15, 0.9);	
+	opacity: 0;
+	transition: all 0.4s ease-in;
+    font-weight: 500;
+    color: white;
+
+}
+.cardImg:hover .cardText {
+	transform: translate(-50%, -50%) rotateY(0deg);
+	opacity: 1;
+}
