@@ -4,7 +4,7 @@ import SlideLeft from "../components/Slideleft";
 import SlideDown from "../components/Slidedown";
 import SlideUp from "../components/Slideup";
 
-function About (){
+function Home (){
     return(
         <div className="text-white">
         <SlideRight />
@@ -15,4 +15,4 @@ function About (){
         )
 }
 
-export default About;
+export default Home;
