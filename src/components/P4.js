@@ -10,21 +10,21 @@ function P4() {
                 <div className="col-md-4">
                     Github: <a href="https://www.linkedin.com/in/kelly-cook-5b320a1bb/" target="blank">
                         <img className="icon"
-                            src="https://github.com/krcook1980/ReactPortfolio/blob/main/src/assets/git.png?raw=true" alt="..." />
+                            src="https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/git.png?raw=true" alt="..." />
                     </a>
                 </div>
                 <div className="col-md-4">
 
                     LinkedIn: <a href="https://www.linkedin.com/in/kelly-cook-5b320a1bb/" target="blank">
                         <img className="icon"
-                            src="https://github.com/krcook1980/ReactPortfolio/blob/main/src/assets/li.png?raw=true" alt="..." />
+                            src="https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/li.png?raw=true" alt="..." />
                     </a>
                 </div>
                 <div className="col-md-4">
                     {/* Email */}
                  Email: <a href="https://www.linkedin.com/in/kelly-cook-5b320a1bb/" target="blank">
                         <img className="icon"
-                            src="https://github.com/krcook1980/ReactPortfolio/blob/main/src/assets/email.png?raw=true" alt="..." />
+                            src="https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/email.png?raw=true" alt="..." />
                     </a>
                 </div>
             </div>
