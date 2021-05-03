@@ -1,9 +1,8 @@
-# React Employee Directory [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+# React Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
   ## Description
-   Use Reactjs and Bootstrap to create an employee directory. Functions include:
-   - Search employee list by first name, last name, or city
-   - Sort employee list by any of the headings
+    Welcome to my portfolio! I used React to build and deploy this page. There is a landing page, about me, and portfolio page showing some of my work. There is a link to my socials, email, and downloadable resume on each page. 
 
    [Deployed Application](https://krcook1980.github.io/KellyCookPortfolio/)
  
@@ -23,7 +22,7 @@
    
   ## Usage
 
-   In the terminal use npm start to open the page and get the api call
+   In the terminal use npm start to open the page 
 
   ## References
   - [W3 Schools](https://www.w3schools.com/)
