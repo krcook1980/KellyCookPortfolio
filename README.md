@@ -2,7 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
   ## Description
-    Welcome to my portfolio! I used React to build and deploy this page. There is a landing page, about me, and portfolio page showing some of my work. There is a link to my socials, email, and downloadable resume on each page. 
+    Welcome to my portfolio! I used React to build and deploy this page. There is a landing page, about me, 
+    and portfolio page showing some of my work. There is a link to my socials, email, and downloadable 
+    resume on each page. 
 
    [Deployed Application](https://krcook1980.github.io/KellyCookPortfolio/)
  
