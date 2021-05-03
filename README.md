@@ -5,7 +5,7 @@
    - Search employee list by first name, last name, or city
    - Sort employee list by any of the headings
 
-   [Deployed Application](https://krcook1980.github.io/ReactEmployeeDirectory/)
+   [Deployed Application](https://krcook1980.github.io/KellyCookPortfolio/)
  
   ## License
    [View Full MIT License](https://opensource.org/licenses/MIT)
@@ -28,13 +28,15 @@
   ## References
   - [W3 Schools](https://www.w3schools.com/)
   - [Stackoverflow](https://stackoverflow.com/) 
-  - [Vecteezy Images](https://www.vecteezy.com/) for the background
-  - Bootcamp activities 5, 18, 20, 23
+  - [Hipwallpaper.com](https://www.hipwallpaper.com/) for the background
+  - 
 
   ## Questions
    Please see my [GitHub profile](https://github.com/krcook1980)  
    You can also email me questions at: kellyrcook1980@gmail.com
 
   
-  <img src="https://github.com/krcook1980/ReactEmployeeDirectory/blob/main/public/assets/scr.JPG">  
+  <img src="https://github.com/krcook1980/KellyCookPortfolio/blob/main/public/assets/src1.JPG">  
+  <img src="https://github.com/krcook1980/KellyCookPortfolio/blob/main/public/assets/src2.JPG">
+  <img src="https://github.com/krcook1980/KellyCookPortfolio/blob/main/public/assets/src3.JPG">
  
