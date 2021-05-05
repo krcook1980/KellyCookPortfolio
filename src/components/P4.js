@@ -30,7 +30,7 @@ function P4() {
             </div>
             <h4 className="text-center mt-4">   
                            <a className="navbar-item has-text-white is-size-4 text-info" 
-                    href="../assets/Resume" download 
+                    href="https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/Resume.pdf" download 
                     target="_blank" 
                     rel="noreferrer">
                    Download My Resume Here
