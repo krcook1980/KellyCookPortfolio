@@ -7,9 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   /* wallpaper was a free download from art-wallpaper.org via hipwallpaper.com */
   background-image: url("./assets/spiderweb.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center;
   background-size: cover;
+  height: 100%;
 }
 
 code {
@@ -21,7 +22,7 @@ code {
  
   padding: 20px;
   text-align: center;
-  width:100%;
+  width: 100%;
   margin-left:25px;
   background-color: rgb(9,13,24,.8);
   box-shadow: 8px 10px 20px #0f1329;
@@ -69,7 +70,7 @@ code {
 
 .nav {
   text-align: center;
-  background-color: rgb(9,13,24,.8);
+  background-color: rgb(9,13,24,.3);
   box-shadow: 8px 10px 20px #0f1329;
   margin-bottom: 15px;
   width: 100%;
@@ -79,15 +80,12 @@ code {
 .Footer {
   background-color: rgb(9,13,24,.7);
   box-shadow: 8px 10px 20px #0f1329;
- 
+  width: 100%;
   color: white;
   text-align: center;
   padding: 2px;
   padding-bottom: 20px;
-  position: fixed;
-  
-  bottom: 0;
-  width: 100%;
+  margin-top: 5%;
 }
 
 .profilePic{
@@ -118,6 +116,9 @@ code {
   padding-bottom: 10px;
 }
 
+.navbar-toggler-icon{
+  border-color: white;
+}
 
 /* portfolio page animation found at https://uicookies.com/bootstrap-animation/*/
 .cardImg {

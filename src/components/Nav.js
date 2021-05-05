@@ -1,33 +1,20 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import {Navbar, Nav, NavDropdown } from 'react-bootstrap';
 
-function Navbar() {
+function NavComponent() {
     return (
-        <div className="row nav mb-4">
-            
-                <div className="nav-item col-md-4">
-                    <Link
-                        to="/"
-                        className="text-white">
-                        Home
-                    </Link>
-                </div>
-                <div className="nav-item col-md-4">
-                    <Link
-                        to="/About"
-                        className="text-white">
-                        About
-                    </Link>
-                </div>
-                <div className="nav-item col-md-4">
-                    <Link
-                        to="/Portfolio"
-                        className="text-white">
-                        Portfolio
-                    </Link>
-                </div>
-            
-        </div>
+        <Navbar collapseOnSelect expand="lg"  className="mb-4 nav">
+            <Nav className="m-auto">
+            <Navbar.Toggle className="navbar-dark" aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav  text-center">
+                    <NavDropdown.Item href="#Home" className="text-white mr-5 pr-5">Home</NavDropdown.Item>
+                    <NavDropdown.Item href="#About" className="text-white ml-5 mr-5 pr-5 pl-5">About</NavDropdown.Item>
+                    <NavDropdown.Item href="#Portfolio" className="text-white ml-5 pl-5">Portfolio</NavDropdown.Item>
+                </Navbar.Collapse>
+            </Nav>
+
+
+        </Navbar>
     )
 }
-export default Navbar;
+export default NavComponent;

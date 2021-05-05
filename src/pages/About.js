@@ -14,8 +14,9 @@ export default class About extends Component {
                 <ZoomIn>
                     <Nav />
                     <Main />
+                    <Footer />
                 </ZoomIn>
-                <Footer />
+                
             </div>
         )
     }
