@@ -5,7 +5,7 @@ function Footer() {
         <div className="container Footer">
             <div className="row mt-4">
                 <div className="col-md-3">
-                    Github: <a href="https://www.linkedin.com/in/kelly-cook-5b320a1bb/" target="blank">
+                    Github: <a href="https://github.com/krcook1980" target="blank">
                         <img className="icon"
                             src="https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/git.png?raw=true" alt="..." />
                     </a>
