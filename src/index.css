@@ -21,7 +21,7 @@ code {
  
   padding: 20px;
   text-align: center;
-  width: 75%;
+  width:100%;
   margin-left:25px;
   background-color: rgb(9,13,24,.8);
   box-shadow: 8px 10px 20px #0f1329;
@@ -79,12 +79,15 @@ code {
 .Footer {
   background-color: rgb(9,13,24,.7);
   box-shadow: 8px 10px 20px #0f1329;
-  width: 100%;
+ 
   color: white;
   text-align: center;
   padding: 2px;
   padding-bottom: 20px;
-  margin-top: 5%;
+  position: fixed;
+  
+  bottom: 0;
+  width: 100%;
 }
 
 .profilePic{
