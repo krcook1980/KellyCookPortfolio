@@ -19,7 +19,7 @@ function Footer() {
                 </div>
                 <div className="col-md-3">
                     {/* Email */}
-                 Email: <a href="https://www.linkedin.com/in/kelly-cook-5b320a1bb/" target="blank">
+                 Email: <a href="mailto:kellyrcook1980@gmail.com" target="blank">
                         <img className="icon"
                             src="https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/email.png?raw=true" alt="..." />
                     </a>
@@ -27,7 +27,7 @@ function Footer() {
                 <div className="col-md-3">
 
                         <a className="navbar-item has-text-white is-size-4 text-white"
-                            href="https://drive.google.com/file/d/19sM3GQE5TbAchJwQMJ5R5WX2IaZN0QOL/view?usp=sharing"
+                            href="../assets/Resume.pdf" download 
                             target="_blank"
                             rel="noreferrer">
                             Download My Resume Here
