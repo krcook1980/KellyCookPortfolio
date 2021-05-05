@@ -30,7 +30,7 @@ function P4() {
             </div>
             <h4 className="text-center mt-4">   
                            <a className="navbar-item has-text-white is-size-4 text-info" 
-                    href="../assets/Resume.pdf" download 
+                    href="https://drive.google.com/file/d/19sM3GQE5TbAchJwQMJ5R5WX2IaZN0QOL/view?usp=sharing" download 
                     target="_blank" 
                     rel="noreferrer">
                    Download My Resume Here
