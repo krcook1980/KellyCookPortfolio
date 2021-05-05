@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KellyCookPortfolio/static/css/main.a530379e.chunk.css",
-    "main.js": "/KellyCookPortfolio/static/js/main.38a50939.chunk.js",
-    "main.js.map": "/KellyCookPortfolio/static/js/main.38a50939.chunk.js.map",
+    "main.js": "/KellyCookPortfolio/static/js/main.2b23558b.chunk.js",
+    "main.js.map": "/KellyCookPortfolio/static/js/main.2b23558b.chunk.js.map",
     "runtime-main.js": "/KellyCookPortfolio/static/js/runtime-main.205f8155.js",
     "runtime-main.js.map": "/KellyCookPortfolio/static/js/runtime-main.205f8155.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/KellyCookPortfolio/static/css/2.4c97ca4f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.2bf0e5f8.chunk.js",
     "static/css/main.a530379e.chunk.css",
-    "static/js/main.38a50939.chunk.js"
+    "static/js/main.2b23558b.chunk.js"
   ]
 }
