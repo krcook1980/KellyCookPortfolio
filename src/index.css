@@ -116,10 +116,6 @@ code {
   padding-bottom: 10px;
 }
 
-.navbar-toggler-icon{
-  border-color: white;
-}
-
 /* portfolio page animation found at https://uicookies.com/bootstrap-animation/*/
 .cardImg {
 	text-align: center;	
