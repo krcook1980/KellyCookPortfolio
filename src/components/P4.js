@@ -4,7 +4,7 @@ import Resume from '../assets/Resume.pdf'
 const MyDoc = () => (
     <Document>
         <Page>
-            <h4><a href="https://docs.google.com/document/d/1z_k-eIZ8aXBW8q2qYF_k_Rtzuim2xfL8zpYp138hKgI/edit?usp=sharing" download={Resume}>Download My Resume Here</a></h4>
+            <h4><a href={Resume} download={Resume}>Download My Resume Here</a></h4>
         </Page>
     </Document>
 );
