@@ -3,11 +3,11 @@ import { PDFDownloadLink, Document, Page } from '@react-pdf/renderer';
 import Resume from '../assets/Resume.pdf'
 const MyDoc = () => (
     <Document>
-      <Page>
-      <h4><a href={<Resume />} download={<Resume />}>Download My Resume Here</a></h4>
-      </Page>
+        <Page>
+            <h4><a href={Resume} download={Resume}>Download My Resume Here</a></h4>
+        </Page>
     </Document>
-  );
+);
 
 
 function P4() {
@@ -37,11 +37,11 @@ function P4() {
                     </a>
                 </div>
             </div>
-      <div className="mt-2"> 
-        <PDFDownloadLink document={<MyDoc />} fileName={<Resume/>}>
-        <MyDoc />
-        </PDFDownloadLink>
-      </div>
+            <div className="mt-2">
+                <PDFDownloadLink document={<MyDoc />} fileName="Resume.pdf">
+                    <MyDoc />
+                </PDFDownloadLink>
+            </div>
 
         </div>
     )
