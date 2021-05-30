@@ -27,7 +27,7 @@ function Footer() {
                 <div className="col-md-3">
 
                         <a className="navbar-item has-text-white is-size-4 text-white"
-                            href="https://drive.google.com/file/d/19sM3GQE5TbAchJwQMJ5R5WX2IaZN0QOL/view?usp=sharing" download 
+                            href="https://docs.google.com/document/d/1z_k-eIZ8aXBW8q2qYF_k_Rtzuim2xfL8zpYp138hKgI/edit?usp=sharing" download 
                             target="_blank"
                             rel="noreferrer">
                             Download My Resume Here
