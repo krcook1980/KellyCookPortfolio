@@ -24,12 +24,12 @@
         "why": "Group Project"
     },
     {
-        "src": "https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/BEA.JPG?raw=true",
-        "alt": "Burger Eater App",
-        "text": "This fun little application allows a user to view a burger menu and select a burger to eat. Clicking on 'Eat It' will move the burger to the eaten column. This app also allows a user to add a new burger to the uneaten column. Using Heroku, Handlebars, Express, ORM and MySql, this was an exercise in MVC.",
-        "link": "https://thawing-thicket-95813.herokuapp.com/",
-        "repo": "https://github.com/krcook1980/BurgerEater",
-        "why": "Practice Application"
+        "src": "https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/LIB.JPG?raw=true",
+        "alt": "Love Is Blind",
+        "text": "For our final project we created a dating app that features matching users based on preferences, a chat application, and ability to change preferences. By not allowing photos, we hope to generate deeper connections between users by removing the superficial aspect from online dating. Using MERN, Passport JS, and Socket IO, this application won the class award 'Most Disruptive to it's Industry'.",
+        "link": "https://love-is-blind.herokuapp.com/",
+        "repo": "https://github.com/krcook1980/DatingApp",
+        "why": "Group Project"
     },
     {
         "src": "https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/JES.JPG?raw=true",

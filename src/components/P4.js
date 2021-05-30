@@ -1,4 +1,13 @@
 import React from 'react';
+import { PDFDownloadLink, Document, Page } from '@react-pdf/renderer';
+import Resume from '../assets/Resume.pdf'
+const MyDoc = () => (
+    <Document>
+      <Page>
+      <h4><a href={<Resume />} download={<Resume />}>Download My Resume Here</a></h4>
+      </Page>
+    </Document>
+  );
 
 
 function P4() {
@@ -28,14 +37,11 @@ function P4() {
                     </a>
                 </div>
             </div>
-            <h4 className="text-center mt-4">   
-                           <a className="navbar-item has-text-white is-size-4 text-info" 
-                    href="https://drive.google.com/file/d/1aHVSihxD5EEdIXowrxq-CQJ60rcyzS0Y/view?usp=sharing" download 
-                    target="_blank" 
-                    rel="noreferrer">
-                   Download My Resume Here
-                </a>
-            </h4>
+      <div className="mt-2"> 
+        <PDFDownloadLink document={<MyDoc />} fileName={<Resume/>}>
+        <MyDoc />
+        </PDFDownloadLink>
+      </div>
 
         </div>
     )
