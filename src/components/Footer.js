@@ -27,7 +27,7 @@ function Footer() {
                 </div>
                 <div className="col-md-3">
 
-                <a href={Resume} download={Resume} className="text-info">Download My Resume Here</a>
+                <a href={Resume} download={Resume} className="text-white">Download My Resume Here</a>
 
                 </div>
             </div>
