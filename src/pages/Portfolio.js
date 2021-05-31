@@ -9,7 +9,7 @@ import Col from '../components/Col'
 
 
 function Portfolio (){
-    const [Images, setImages] = useState(projects)
+    const [Images] = useState(projects)
 
     return(
         <Container>
@@ -17,7 +17,7 @@ function Portfolio (){
             <Row>
                 {Images.map((image, index) => {
                     return(
-                        <Col size="col-md-6">
+                        <Col size="col-md-6" key={index}>
                             <Card card={image} key={index}/>
                         </Col>
                     )

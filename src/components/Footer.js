@@ -1,4 +1,5 @@
 import React from 'react';
+import Resume from '../assets/Resume.pdf'
 
 function Footer() {
     return (
@@ -26,12 +27,7 @@ function Footer() {
                 </div>
                 <div className="col-md-3">
 
-                        <a className="navbar-item has-text-white is-size-4 text-white"
-                            href="https://docs.google.com/document/d/1z_k-eIZ8aXBW8q2qYF_k_Rtzuim2xfL8zpYp138hKgI/edit?usp=sharing" download 
-                            target="_blank"
-                            rel="noreferrer">
-                            Download My Resume Here
-                </a>
+                <a href={Resume} download={Resume} className="text-info">Download My Resume Here</a>
 
                 </div>
             </div>

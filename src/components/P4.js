@@ -1,14 +1,5 @@
 import React from 'react';
-import { PDFDownloadLink, Document, Page } from '@react-pdf/renderer';
 import Resume from '../assets/Resume.pdf'
-const MyDoc = () => (
-    <Document>
-        <Page>
-            <h4><a href={Resume} download={Resume}>Download My Resume Here</a></h4>
-        </Page>
-    </Document>
-);
-
 
 function P4() {
     return (
@@ -38,9 +29,7 @@ function P4() {
                 </div>
             </div>
             <div className="mt-2">
-                <PDFDownloadLink document={<MyDoc />} fileName="Resume.pdf">
-                    <MyDoc />
-                </PDFDownloadLink>
+            <h4><a href={Resume} download={Resume} className="text-info">Download My Resume Here</a></h4>
             </div>
 
         </div>

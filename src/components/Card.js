@@ -5,10 +5,10 @@ function Card({card}) {
         <div className="cardImg mb-5">
               <div className="card-body text-white About ">
                 <h4 className="card-title text-center">
-                    <a href={card.link} className="text-white" target="_blank" rel="noreferrer">{card.alt}</a>
+                    <a href={card.link} className="text-white" target="_blank" rel="noopener noreferrer">{card.alt}</a>
                 </h4>
                 <h5>
-                    <a href={card.repo} className="text-white"  target="_blank" rel="noreferrer">See The Repository</a>
+                    <a href={card.repo} className="text-white"  target="_blank" rel="noopener noreferrer">See The Repository</a>
                 </h5>
                 <p className="text-muted">{card.why}</p>
             </div>
