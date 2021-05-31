@@ -1,24 +1,14 @@
 {
-  "files": {
-    "main.css": "/KellyCookPortfolio/static/css/main.a530379e.chunk.css",
-    "main.js": "/KellyCookPortfolio/static/js/main.79287e99.chunk.js",
-    "main.js.map": "/KellyCookPortfolio/static/js/main.79287e99.chunk.js.map",
-    "runtime-main.js": "/KellyCookPortfolio/static/js/runtime-main.205f8155.js",
-    "runtime-main.js.map": "/KellyCookPortfolio/static/js/runtime-main.205f8155.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/KellyCookPortfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2bf0e5f8.chunk.js": "/KellyCookPortfolio/static/js/2.2bf0e5f8.chunk.js",
-    "static/js/2.2bf0e5f8.chunk.js.map": "/KellyCookPortfolio/static/js/2.2bf0e5f8.chunk.js.map",
-    "index.html": "/KellyCookPortfolio/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/KellyCookPortfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.a530379e.chunk.css.map": "/KellyCookPortfolio/static/css/main.a530379e.chunk.css.map",
-    "static/js/2.2bf0e5f8.chunk.js.LICENSE.txt": "/KellyCookPortfolio/static/js/2.2bf0e5f8.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/KellyCookPortfolio/static/media/spiderweb.f56c6994.jpg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.205f8155.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2bf0e5f8.chunk.js",
-    "static/css/main.a530379e.chunk.css",
-    "static/js/main.79287e99.chunk.js"
-  ]
+  "main.css": "/KellyCookPortfolio/static/css/main.4e59a427.chunk.css",
+  "main.js": "/KellyCookPortfolio/static/js/main.d3101ae0.chunk.js",
+  "main.js.map": "/KellyCookPortfolio/static/js/main.d3101ae0.chunk.js.map",
+  "static/css/1.00a2978a.chunk.css": "/KellyCookPortfolio/static/css/1.00a2978a.chunk.css",
+  "static/js/1.9b1751be.chunk.js": "/KellyCookPortfolio/static/js/1.9b1751be.chunk.js",
+  "static/js/1.9b1751be.chunk.js.map": "/KellyCookPortfolio/static/js/1.9b1751be.chunk.js.map",
+  "runtime~main.js": "/KellyCookPortfolio/static/js/runtime~main.2ef8a271.js",
+  "runtime~main.js.map": "/KellyCookPortfolio/static/js/runtime~main.2ef8a271.js.map",
+  "static/media/Resume.pdf": "/KellyCookPortfolio/static/media/Resume.d3333e55.pdf",
+  "static/media/index.mjs": "/KellyCookPortfolio/static/media/index.95e0e842.mjs",
+  "static/media/index.css": "/KellyCookPortfolio/static/media/spiderweb.16716675.jpg",
+  "index.html": "/KellyCookPortfolio/index.html"
 }
