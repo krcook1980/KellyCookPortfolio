@@ -1,5 +1,5 @@
 import React from 'react';
-import Resume from '../assets/Resume1.pdf'
+import Resume from '../assets/Resume2.pdf'
 
 function P4() {
     return (
