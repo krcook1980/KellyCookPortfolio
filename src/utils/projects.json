@@ -32,12 +32,12 @@
         "why": "Group Project"
     },
     {
-        "src": "https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/JES.JPG?raw=true",
-        "alt": "Jab Effects Survey",
-        "text": "For project 2, we created a survey form and MySql database to track Covid-19 vaccine side-effects entered by our users. The statistics page allows the user to select and see graphed demographics, and the password protected admin site allows access to the database from the front end, /login and /admin to access. This application won the class award 'Best Use of Technology'.",
-        "link": "https://jab-effects.herokuapp.com/",
-        "repo": "https://github.com/krcook1980/Jabs",
-        "why": "Group Project"
+        "src": "https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/DPL.JPG?raw=true",
+        "alt": "Work Day Scheduler",
+        "text": "This is a simple tool created using jquery to help you keep track of your tasks for the day. If they are not cleared out, they will remain for the next time you log in.",
+        "link": "https://krcook1980.github.io/DailyPlanner/",
+        "repo": "https://github.com/krcook1980/DailyPlanner",
+        "why": "Practice Application"
     },
     {
         "src": "https://github.com/krcook1980/KellyCookPortfolio/blob/main/src/assets/WDA.JPG?raw=true",
