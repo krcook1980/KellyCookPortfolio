@@ -1,5 +1,6 @@
 import React from 'react';
-import Resume from '../assets/Resume3.pdf'
+import Resume from '../assets/Resume2022.pdf'
+
 
 function Footer() {
     return (
